@@ -9,4 +9,3 @@ const MinigamePage: React.FC = () => {
 };
 
 export default MinigamePage;
-
